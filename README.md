@@ -14,4 +14,4 @@ WARNING: 1: all codes will be tested on Virtual Machine, so don't try to send vi
 Known errors:
 Some websites may cause browser to crash
 
-Release Strawberry (1.0) - https://file.io/4rmBPGGnvKu7
+Release Strawberry (1.0) - https://modsfire.com/s60x8mB0c4XFbgE
